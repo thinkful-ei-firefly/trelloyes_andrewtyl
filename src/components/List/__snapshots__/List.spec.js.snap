@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the UI as expected 1`] = `
+<section
+  className="List"
+>
+  <header
+    className="List-header"
+  >
+    <h2>
+      Default header
+    </h2>
+  </header>
+  <div
+    className="List-cards"
+  >
+    <div
+      className="Card"
+    >
+      <button
+        type="button"
+      >
+        delete
+      </button>
+      <h3>
+        Default Card 1 Title
+      </h3>
+      <p>
+        Default Card 1 content
+      </p>
+    </div>
+    <div
+      className="Card"
+    >
+      <button
+        type="button"
+      >
+        delete
+      </button>
+      <h3>
+        Default Card 2 Title
+      </h3>
+      <p>
+        Default Card 2 content
+      </p>
+    </div>
+    <div
+      className="Card"
+    >
+      <button
+        type="button"
+      >
+        delete
+      </button>
+      <h3>
+        Default Card 3 Title
+      </h3>
+      <p>
+        Default Card 3 content
+      </p>
+    </div>
+  </div>
+</section>
+`;
